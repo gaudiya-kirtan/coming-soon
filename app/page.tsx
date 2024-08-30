@@ -32,7 +32,6 @@ const Home = () => {
                 <input
                   type="text"
                   name="b_c2eb8297f63f54e82a96c8f56_25c68ece6a"
-                  tabIndex="-1"
                   value=""
                   readOnly
                 />
