@@ -66,9 +66,6 @@ const Home = () => {
           <p className="text-xs mt-2 text-[#858585]">-- Śrīla Bhakti Prajñāna Keśava Gosvāmī Mahārāja</p>
         </div>
       </div>
-      <footer>
-        <p className="text-xs text-[#858585] mt-4">&copy; 2025 Gaudiya Vedanta Publications, All Rights Reserved.</p>
-      </footer>
     </div>
   );
 };
