@@ -68,18 +68,48 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/bt-songbooks',
-        destination: 'https://www.vineofdevotion.com/bt-songbooks',
+        source: '/bvtsongs',
+        destination: 'https://www.vineofdevotion.com/bvtsongs',
         permanent: true,
       },
       {
-        source: '/kk-introduction',
-        destination: 'https://www.vineofdevotion.com/kk-introduction',
+        source: '/kalyana-kalpataru',
+        destination: 'https://www.vineofdevotion.com/kalyana-kalpataru',
         permanent: true,
       },
       {
         source: '/festival',
         destination: 'https://www.vineofdevotion.com/festival',
+        permanent: true,
+      },
+      {
+        source: '/govardhana',
+        destination: 'https://www.vineofdevotion.com/govardhana',
+        permanent: true,
+      },
+      {
+        source: '/syama-kunda',
+        destination: 'https://www.vineofdevotion.com/syama-kunda',
+        permanent: true,
+      },
+      {
+        source: '/adhivasa-kirtana',
+        destination: 'https://www.vineofdevotion.com/adhivasa-kirtana',
+        permanent: true,
+      },
+      {
+        source: '/upadesamrta',
+        destination: 'https://www.vineofdevotion.com/upadesamrta',
+        permanent: true,
+      },
+      {
+        source: '/page-numbers',
+        destination: 'https://www.vineofdevotion.com/page-numbers',
+        permanent: true,
+      },
+      {
+        source: '/transliteration',
+        destination: 'https://www.vineofdevotion.com/transliteration',
         permanent: true,
       },
     ];
